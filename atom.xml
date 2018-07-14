@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-07-14T07:28:54.017Z</updated>
+  <updated>2018-07-13T15:29:27.220Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2018/07/14/%E7%99%BE%E5%BA%A6(1)/"/>
-    <id>http://yoursite.com/2018/07/14/百度(1)/</id>
-    <published>2018-07-14T07:27:04.488Z</published>
-    <updated>2018-07-14T07:28:54.017Z</updated>
-    
-    <content type="html"><![CDATA[<p>title:this is a testing article!<br><img src="https://img-blog.csdn.net/20180713230243933?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3lpbnNhbmduYQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="测试图"><br>这是一个测试文章，测试怎样将文章提交至GitHub上</p><p>同时希望未来越来越好吧<br>authou:caroline zhang</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;title:this is a testing article!&lt;br&gt;&lt;img src=&quot;https://img-blog.csdn.net/20180713230243933?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
